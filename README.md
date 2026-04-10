@@ -28,6 +28,7 @@ Each video was created purely using **text prompts**, showcasing the power of mo
 > "A serene cinematic shot of a pristine sandy beach during golden hour sunset. The sun is low on the horizon, casting warm amber and orange light across the calm water. Gentle waves roll onto the shore, their white foam catching the golden light. The sky transitions from deep orange near the horizon to soft pink and purple higher up. A light breeze creates subtle texture in the sand. The camera slowly pans from left to right, following the horizon line. Soft, warm color grading. Shot on 35mm film. Duration: 4 seconds. Ambient background audio of distant seagulls calling and the soft whistling of a coastal breeze."
 
 <video src="beach.mp4" controls width="600"></video>
+[▶️ Watch Video](beach.mp4)
 
 ---
 
@@ -36,6 +37,7 @@ Each video was created purely using **text prompts**, showcasing the power of mo
 > A modern lifestyle commercial featuring a sleek, premium travel backpack in deep charcoal gray with minimalist design and weathered leather accents. The backpack is placed on a wooden desk in a bright loft apartment with exposed brick walls and large industrial windows. Soft, diffused natural light creates warm shadows across the backpack's textured fabric. The camera slowly orbits around the backpack from left to right, revealing its ergonomic straps and multiple compartments. Midway through, the camera pushes in for a close-up detail shot of the premium YKK zippers and reinforced stitching. A traveler's passport, sunglasses, and a vintage camera are artfully arranged beside the backpack, suggesting adventure and exploration. The overall mood is sophisticated, adventurous, and aspirational. Color grading: warm, slightly desaturated tones with enhanced highlights on the leather details. Shot on 35mm film with shallow depth of field. Duration: 4 seconds
 
 <video src="bagpack.mp4" controls width="600"></video>
+[▶️ Watch Backpack Video](bagpack.mp4)
 
 ---
 
@@ -44,6 +46,7 @@ Each video was created purely using **text prompts**, showcasing the power of mo
 > A selfie video of a runner on a windy coastal path at sunrise. He holds the camera at arm's length, his forearm bounces in frame. The style is YouTube-vlog-like. The character jogs, then points over his shoulder at the cliffs. He says in an excited tone: "Mile three, legs are waking up, one hill left." Sounds: gusting wind, shoe thuds on gravel, distant seabirds, breathy exhale. No subtitles. Phone lens look, slight micro-jitter, mild auto-exposure breathing, vertical 9:16, center framing with tight headroom.
 
 <video src="runner.mp4" controls width="400"></video>
+[▶️ Watch Runner Video](runner.mp4)
 
 ---
 
